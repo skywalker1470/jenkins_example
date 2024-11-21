@@ -1,0 +1,5 @@
+class dengey{
+    public static void main (String args[]){
+        System.out.println("HEllooo");
+    }
+}
